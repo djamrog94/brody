@@ -15,9 +15,9 @@ with open('web_cred.txt', 'r') as f:
 client = Client(accountSID, authToken)
 
 
-myTwilioNumber = '+17158008105'
+myTwilioNumber = '+xxxxxxx'
 
-PhoneList = {'David': '+19784675045', 'Kjirsten': '+16125587345'}
+PhoneList = {'David': '+xxxxxxx', 'Kjirsten': '+xxxxxxx'}
 
 
 def send_txt():
